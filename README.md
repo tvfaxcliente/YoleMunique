@@ -505,6 +505,8 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-id="TVMaticCrafts.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Crafts
 http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 tvg-id="TVMaticFacebook.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Facebook
+http://cdn.tvmatic.net/facebook.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 tvg-id="TVMaticFunny.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Funny
@@ -7229,25 +7231,26 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Fubar.xml"
-############## SÉRIES | Fubar ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | ANIMES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="01 Dia de levar a filha para o trabalho A01A02" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",01 Dia de levar a filha para o trabalho A01A02
+#EXTM3U url-tvg="http://grade-de- Serie FUBAR.xml"
+############## Serie FUBAR ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie FUBAR" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="01 Dia de levar a filha para o trabalho S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",01 Dia de levar a filha para o trabalho S01 E01
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/01Dia%20de%20levar%20a%20filha%20para%20o%20trabalhoA01A02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="02 Trem roubado A03A04" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",02 Trem roubado A03A04
+#EXTINF:-1 tvg-id="" tvg-name="02 Trem roubado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",02 Trem roubado S01 E02
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/02Trem%20roubado%20A03A04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="03 Isca A05A06 " tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",03 Isca A05A06 
+#EXTINF:-1 tvg-id="" tvg-name="03 Isca S01 E03 " tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",03 Isca S01 E03 
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/03Isca%20A05A06%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="0 4Armado e Perigoso A07A08" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",04 Armado e Perigoso A07A08
+#EXTINF:-1 tvg-id="" tvg-name="0 4Armado e Perigoso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",04 Armado e Perigoso S01 E04
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/04Armado%20e%20Perigoso%20A07A08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="05 Hoje aqui, amanhã quem sabe A09A10" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",05 Hoje aqui, amanhã quem sabe A09A10
+#EXTINF:-1 tvg-id="" tvg-name="05 Hoje aqui, amanhã quem sabe S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",05 Hoje aqui, amanhã quem sabe S01 E05
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/05Hoje%20aqui%2C%20amanh%C3%A3%20quem%20sabe%20A09A10.mp4
-#EXTINF:-1 tvg-id="" tvg-name="00 6Royal Flush A11A12" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",006 Royal Flush A11A12
+#EXTINF:-1 tvg-id="" tvg-name="00 6Royal Flush S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",006 Royal Flush S01 E06
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/006Royal%20Flush%20A11A12.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Urina da Sorte A13A14" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",007 Urina da Sorte A13A14
+#EXTINF:-1 tvg-id="" tvg-name="007 Urina da Sorte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",007 Urina da Sorte S01 E07
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/007Urina%20da%20Sorte%20A13A14.mp4
-#EXTINF:-1 tvg-id="" tvg-name="08 É isso, e acabou A15A16" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",08 É isso, e acabou A15A16
+#EXTINF:-1 tvg-id="" tvg-name="08 É isso, e acabou S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",08 É isso, e acabou S01 E08
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/08%C3%89%20isso%2C%20e%20acabou%20A15A16.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | ANIMESs.xml"
