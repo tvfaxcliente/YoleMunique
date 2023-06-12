@@ -3031,6 +3031,12 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 ############## FILMES  TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="À Espera De Um Milagre"tvg-logo="https://64.media.tumblr.com/d3323ff32919b77fe6ec1476c0b8729c/3b9075077300210a-33/s500x750/aa32168d47b9054f458dcbe24b00d378f83ce6db.gif"group-title="FILMES | TV FAX",À Espera De Um Milagre
+https://ia803409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILMES | TV FAX",A Queda
+https://ia902602.us.archive.org/26/items/a-queda_202306/A%20Queda.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)"tvg-logo="https://www.omelete.com.br/webstories/a-pequena-sereia-e-estreias-da-semana/assets/2.gif"group-title="FILMES | TV FAX",A Pequena Sereia (2023)
+https://ia601601.us.archive.org/15/items/a-pequena-sereia-2023-filme-completo-dublado/A%20Pequena%20Sereia%20%282023%29%20FILME%20COMPLETO%20DUBLADO%F0%9F%8E%A5%20%F0%9F%A7%9C.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ano Um "tvg-logo="https://images.justwatch.com/poster/257627384/s592/ano-um"group-title="FILMES | TV FAX",Ano Um 
 https://ia902707.us.archive.org/5/items/ano-um-720p-dublado-2009-99-films/Ano%20Um%20%20-%20720p%20Dublado%20%282009%29%20-%2099%20Film%27s.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prisão"tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/10/the-shawshank-redemption-cinepop.jpg"group-title="FILMES | TV FAX",Prisão
@@ -3043,7 +3049,7 @@ https://ia902703.us.archive.org/11/items/filmes-baseados-em-fatos-reais-filme-ve
 https://ia802603.us.archive.org/33/items/filme-vida-de-inseto-dublado-completo/FILME%20VIDA%20DE%20INSETO%20DUBLADO%20COMPLETO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Antuerpia"tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2016/09/cinema.jpg"group-title="FILMES | TV FAX",Antuerpia
 https://ia902609.us.archive.org/35/items/Antuerpia/Antuerpia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://vdn.libreflix.org/covers/media/a4f89f90-ca25-11eb-b4bf-99d9958b2c1d7.jpg?resize=480,270&crop=entropy"group-title="FILMES | TV FAX",BRICHOS
+#EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://1.bp.blogspot.com/-NYyG2GbFzZY/YU4PXfCOp3I/AAAAAAABcX8/fYRwCnREPeAfHkRZup11ihbFBtXw7yEtwCLcBGAsYHQ/s460/Vida%2B-%2BSecreta%2B-%2Bdos%2B-%2BBichos%2B-%2Bem%2B-%2BGifsi%2B%25287%2529.gif"group-title="FILMES | TV FAX",BRICHOS
 https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
 #EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILMES | TV FAX",Alta Velocidade
 https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
@@ -3067,13 +3073,12 @@ https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p
 https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10
 http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
+#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://uproxx.com/wp-content/uploads/2023/02/5-fastx-momoa-arms.gif"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
 https://ia902709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda Para Sempre" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Pantera Negra: Wakanda Para Sempre
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83315
-
 #EXTINF:-1 tvg-id="" tvg-name="Boogey Um Monstro Adorável" tvg-logo="https://image.tmdb.org/t/p/w185/mghRagZrG8ZGVmmc72o09k98COR.jpg" group-title="FILMES | TV FAX",Boogey Um Monstro Adorável
 https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/08532/gw7jaoxfix84_n/index-v1-a1.m3u8?t=WJ_xZQ44XeQWEeJQXz7Z9LDqLXPwhK5O7Mtg3F0MrQ8&s=1686523356&e=14400&f=42661414&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=168.227&sp=3500&asn=264914
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
