@@ -3818,6 +3818,8 @@ https://ia802708.us.archive.org/35/items/mazzaropi-meu-japao-brasileiro-tv-fax/M
 
 #EXTINF:-1 tvg-id="" tvg-name=",R I P D Agentes Do Além"tvg-logo="https://pa1.aminoapps.com/6416/22b19f848a9f6ce170b99854be4c9e007046c51f_00.gif"group-title="FILMES TV FAX R I P D Agentes Do Além",R I P D Agentes Do Além
 https://ia600507.us.archive.org/27/items/r.-i.-p.-d.-agentes-do-alem-tv-fax/R.I.P.D.%20Agentes%20do%20Al%C3%A9m%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",R I P D 2 Rise Of The Damned"tvg-logo="https://media.tenor.com/d3EHzsFWeVEAAAAC/ripd-movie.gif"group-title="FILMES TV FAX R I P D Agentes Do Além",R I P D 2 Rise Of The Damned
+https://ia800505.us.archive.org/12/items/r.-i.-p.-d.-2-rise-of-the-damned-tv-fax/R.I.P.D.%202%20Rise%20of%20the%20Damned%20TV%20FAX.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES TV FAX filhos.xml"
 ############## FILMES TV FAX filhos  #################
